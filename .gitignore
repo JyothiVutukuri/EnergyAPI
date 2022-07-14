@@ -1,0 +1,17 @@
+#pyCharm
+.idea
+
+#pychache
+__pycache__
+elements_assginment/__pycache__
+core/__pycache__
+core/migrations/__pycache__
+
+#db
+db.sqlite3
+
+#virtual env
+.venv
+
+# mac finder
+.DS_Store
